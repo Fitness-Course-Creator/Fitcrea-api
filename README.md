@@ -34,11 +34,11 @@ Api endpoints are called by the appropriate HTTP methods.
 
 [List users](/docs/list_users.md)
 
-[Create user](/docs/create_user.md.md)
+[Create user](/docs/create_user.md)
 
-[View User](/docs/view_user.md.md)
+[View User](/docs/view_user.md)
 
-[Manager User Courses](/docs/manage_user_courses.md.md)
+[Manager User Courses](/docs/manage_user_courses.md)
 
 # Courses
 
