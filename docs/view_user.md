@@ -6,8 +6,8 @@
 Respond :
 
 ```javascript
+
 {
-    {
     "data": {
         "id": 17,
         "first_name": "Janez",
@@ -51,6 +51,5 @@ Respond :
         ],
         "account_id": 1
     }
-}
 }
 ```
