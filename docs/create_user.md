@@ -5,10 +5,10 @@
 
 |Parameter| Required/Optional | Description|
 |----|------------|---------
-|first_name| Requried | String |
-|last_name| Requried | String |
-|email| Requried  | String, Email |
-|courses| Requried | Array |
+|first_name| Required | String |
+|last_name| Required | String |
+|email| Required  | String, Email |
+|courses| Required | Array |
 
 Request :
 
