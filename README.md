@@ -7,6 +7,8 @@ Api documentation of Fitcrea
 
 To get the API access, email info@fitcrea.com to give the account access.
 
+We are using bearer token authorization.
+
 ## API functions
 
 Api endpoints are called by the appropriate HTTP methods.
@@ -15,8 +17,6 @@ Api endpoints are called by the appropriate HTTP methods.
 * POST - sends new data object
 * PUT - updates existing data object
 * DELETE - deletes data object
-
-We are using bearer token authorization.
 
 ## HTTP codes
 
@@ -28,7 +28,7 @@ We are using bearer token authorization.
 * 403 Forbidden - you do not have access to this endpoint and method combination
 * 404 Not Found - requested data not found
 * 429 Too Many Requests - you have been rate limited and should slow down your request rate
-* 500 Internal Server Error - may be caused e.g. by unavailable access to one of the system interfaces (database, webservices, SAP etc.)
+* 500 Internal Server Error - may be caused e.g. by unavailable access to one of the system interfaces (database, webservices)
 
 # Users
 
